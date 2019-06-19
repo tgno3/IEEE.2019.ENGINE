@@ -1,7 +1,8 @@
 #########################################################################################################################
 ### Project  : Technology assessment of Engines: TSC vs NA
 ### Script   : Engine on GIT.R
-### Contents : IEEE Access paper
+### Contents : Reproduction code for Assessment of regulatory impact on technological changes: An enlarging dominance of
+###                                  downsized turbo/super-charged engines over naturally aspirated engines
 #########################################################################################################################
 
 #########################################################################################################################
